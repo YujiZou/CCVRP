@@ -1,1 +1,1 @@
-The instance datas can be downloaded at http://vrp.atd-lab.inf.puc-rio.br/index.php/en/
+The instance data can be downloaded at http://vrp.atd-lab.inf.puc-rio.br/index.php/en/
