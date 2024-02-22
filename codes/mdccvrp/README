@@ -1,0 +1,3 @@
+The code is compiled with g++ 10.2.1 on Linux. 
+The 'mdccvrp' algorithm is designed for instances from datasets S2 and S3, whereas 'mdccvrp2' is  for instances from dataset S1. 
+Both algorithms require two input parameters:  the first one is the file path of the input instance, and the second one is the maximum number of running iterations.

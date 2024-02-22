@@ -1,0 +1,2 @@
+The code is compiled with g++ 10.2.1 on Linux. 
+Three input parameters are necessary: the first specifies the file path of the input instance, the second is the maximum number of vehicles permitted, and the last is the allowed running time for the algorithm (in seconds).
